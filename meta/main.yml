@@ -1,0 +1,22 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: repo-puias
+  author: nholuong
+  description: PUIAS repository for RHEL/CentOS.
+  company: "Midwestern Mac, LLC"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - packaging
+    - puias
+    - repository
+    - repo
+    - redhat
+    - rhel
+    - centos
